@@ -14,10 +14,10 @@ retrieving information related to:
 - **Matches**: Information on matches played between clubs, including scores and stadiums.
 - **Trophies**: Details of trophies won by the clubs, such as the year and competition name.
 
-##Connecting to database
+## Connecting to database
 ![Screenshot of connecting to database](images/connection.png)
 
-##Conceptual Diagram
+## Conceptual Diagram
 ![Screenshot of conceptual diagram](images/conceptualdiagramscreenshot.png)
 ![Image of conceptual diagram from sql developer](images/Club_Management%20Model.png)
 
