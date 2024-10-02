@@ -34,7 +34,6 @@ operations like updating and deleting records. Key SQL operations used in this p
 
 ### Example SQL Commands
 
-```sql
 -- Creating tables
 ![Screenshot of creating table coaches](images/createcoaches.png)
 ![Screenshot of creating table players](images/createplayers.png)
