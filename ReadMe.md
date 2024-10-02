@@ -19,7 +19,7 @@ retrieving information related to:
 
 ##Conceptual Diagram
 ![Screenshot of conceptual diagram](images/conceptualdiagramscreenshot.png)
-![Picture from sql developer of conceptual diagram](images/Club_Management Model.png)
+![Image of conceptual diagram from sql developer](images/Club_Management%20Model.png)
 
 ## SQL Commands Executed
 
@@ -58,3 +58,5 @@ operations like updating and deleting records. Key SQL operations used in this p
 --performing outer join to get clubs and their coaches including clubs with no coaches
 ![Screenshot after Outer Join](images/leftjoin.png)
 ![Screenshot after Outer Join](images/leftjoin2.png)
+
+[def]: images/Club_ManagementModel.png
