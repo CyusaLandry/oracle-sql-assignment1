@@ -44,7 +44,7 @@ operations like updating and deleting records. Key SQL operations used in this p
 ![Screenshot after inserting into table clubs](images/clubsdata.png)
 --Table Players
 ![Screenshot of inserting into table players](images/insertintoplayers.png)
-![Screenshot after inserting into table players](images/playerssdata.png)
+![Screenshot after inserting into table players](images/playersdata.png)
 
 --DML operations on table players
 ![Screenshot of inserting new player](images/insertnewplayer.png)
